@@ -10,6 +10,39 @@
       <excludeFolder url="file://$MODULE_DIR$/.gradle"/>
     </content>
     <orderEntry type="sourceFolder" forTests="false"/>
+    <orderEntry type="module-library" scope="PROVIDED">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wjlin/.gradle/caches/modules-2/files-2.1/com.github.javadev/underscore/1.30/6488752f0a8afba6cd2e1a1a761558e62bedf55e/underscore-1.30.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/wjlin/.gradle/caches/modules-2/files-2.1/com.github.javadev/underscore/1.30/7ed8c763209eb310b8e76833a7d500a866f21863/underscore-1.30-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wjlin/.gradle/caches/modules-2/files-2.1/com.github.javadev/underscore/1.30/6488752f0a8afba6cd2e1a1a761558e62bedf55e/underscore-1.30.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/wjlin/.gradle/caches/modules-2/files-2.1/com.github.javadev/underscore/1.30/7ed8c763209eb310b8e76833a7d500a866f21863/underscore-1.30-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/wjlin/.gradle/caches/modules-2/files-2.1/com.github.javadev/underscore/1.30/6488752f0a8afba6cd2e1a1a761558e62bedf55e/underscore-1.30.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/wjlin/.gradle/caches/modules-2/files-2.1/com.github.javadev/underscore/1.30/7ed8c763209eb310b8e76833a7d500a866f21863/underscore-1.30-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
     <orderEntry type="module-library" scope="TEST">
       <library>
         <CLASSES>
